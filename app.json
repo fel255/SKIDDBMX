@@ -1,6 +1,6 @@
 {
-  "name": "SKIDDYBMX",
-  "description": "🚀 SKIDDYBMX WhatsApp MultiDevice Bot – BY SKIDDYBMX 💡✨",
+  "name": "HAIKO-MDX",
+  "description": "🚀 HAIKO MDX WhatsApp MultiDevice Bot – BY MYSTIC HAIKO 💡✨",
   "logo": "https://files.catbox.moe/pcb7ya.jpg",
   "keywords": ["PROFESSEUR HACK", "whatsapp-bot", "whatsapp-md-bot"],
   "repository": "https://github.com/PROFESSEURMDX/HAIKO-MDX-V1",
@@ -97,4 +97,4 @@
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
   ]
-}
+    }
