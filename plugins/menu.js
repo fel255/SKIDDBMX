@@ -125,7 +125,7 @@ const menu = async (m, Matrix) => {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363398101781980@newsletter',
-          newsletterName: "𝐇𝐀𝐈𝐊𝐎-𝐌𝐃𝐗-𝐕𝟏🪀",
+          newsletterName: "SKIDDYBMX🪀",
           serverMessageId: 143
         }
       }
@@ -347,7 +347,7 @@ ${menuResponse}
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363398101781980@newsletter',
-            newsletterName: "𝐇𝐀𝐈𝐊𝐎-𝐌𝐃𝐗-𝐕𝟏🪀",
+            newsletterName: "SKIDDYMBX🪀",
             serverMessageId: 143
           }
         }
