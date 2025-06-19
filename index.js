@@ -56,7 +56,7 @@ async function downloadSessionData() {
         return false;
     }
 
-    const sessdata = config.SESSION_ID.split("HAIKO~MDX~")[1];
+    const sessdata = config.SESSION_ID.split("SKIDDYBMX~")[1];
 
     if (!sessdata || !sessdata.includes("#")) {
         console.error('❌ Invalid SESSION_ID format! It must contain both file ID and decryption key.');
@@ -89,13 +89,13 @@ async function start() {
     try {
         const { state, saveCreds } = await useMultiFileAuthState(sessionDir);
         const { version, isLatest } = await fetchLatestBaileysVersion();
-        console.log(`🤖 HAIKO-MDX using WA v${version.join('.')}, isLatest: ${isLatest}`);
+        console.log(`🤖 SKIDDYBMX using WA v${version.join('.')}, isLatest: ${isLatest}`);
         
         const Matrix = makeWASocket({
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: useQR,
-            browser: ["HAIKO-MDX", "safari", "3.3"],
+            browser: ["SKIDDYBMX", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
@@ -114,11 +114,11 @@ async function start() {
                 }
             } else if (connection === 'open') {
                 if (initialConnection) {
-                    console.log(chalk.green("Connected Successfully HAIKO-MDX ♻️"));
+                    console.log(chalk.green("Connected Successfully SKIDDYBMX ♻️"));
                     Matrix.sendMessage(Matrix.user.id, { 
                         image: { url: "https://files.catbox.moe/rlk9wm.jpg" }, 
                         caption: `╓─────────────────╖
-│WELCOME TO HAIKO-MDX
+│WELCOME TO SKIDDYBMX
 ╙─────────────────╜
 *⚠️ Hello there User! 🤖*
 
@@ -180,7 +180,7 @@ async function start() {
                     await Matrix.readMessages([mek.key]);
                     
                     if (config.AUTO_STATUS_REPLY) {
-                        const customMessage = config.STATUS_READ_MSG || '✅ Auto Status Seen Bot By HAIKO-MDX';
+                        const customMessage = config.STATUS_READ_MSG || '✅ Auto Status Seen Bot By SKIDDYBMX';
                         await Matrix.sendMessage(fromJid, { text: customMessage }, { quoted: mek });
                     }
                 }
