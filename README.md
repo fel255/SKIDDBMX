@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=459BF7FF&center=true&vCenter=true&width=1000&height=200&lines=HAIKO-MDX-V1;VERSION+2025;BY+DEV+SKIDDYBMX" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=459BF7FF&center=true&vCenter=true&width=1000&height=200&lines=SKIDDY-BMX-V1;VERSION+2025;BY+DEV+SKIDDYBMX" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/PROFESSEURMDX">
-    <img title="Author" src="https://img.shields.io/badge/Author-DEV%20PROFESSEUR-ff004d?style=for-the-badge&logo=github&logoColor=white" />
+    <img title="Author" src="https://img.shields.io/badge/Author-DEV%20FELICIAN-ff004d?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://whatsapp.com/channel/0029Vb9qyTY47XeJ7i0wcQ40">
     <img title="Join WhatsApp Channel" src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -36,7 +36,7 @@
 
 ---
 
-DEPLOY EASILY HAIKO-MDX-V1 
+DEPLOY EASILY FELICIAN
 
 ### Get Pairing Code SESSION ID
 
@@ -54,10 +54,10 @@ DEPLOY EASILY HAIKO-MDX-V1
 
 ---
 
-### DEPLOY HAIKO-MDX-V1
+### DEPLOY FELICIAN
 
 <p align="center">
-  <a href="https://replit.com/PROFESSEURMDX">
+  <a href="https://replit.com/FELICIAN">
     <img src="https://img.shields.io/badge/Deploy%20To%20Replit-FFA500?style=for-the-badge&logo=replit&logoColor=white" />
   </a>
   <a href="https://railway.app/new/template?template=https://github.com/PROFESSEURMDX/HAIKO-MDX-V1">
@@ -75,14 +75,14 @@ DEPLOY EASILY HAIKO-MDX-V1
   <a href="https://host.talkdrove.com/share-bot/82">
     <img src="https://img.shields.io/badge/Deploy-TaikDrove-6971FF?style=for-the-badge&logo=google-cloud&logoColor=white" />
   </a>
-  <a href="https://app.koyeb.com/services/deploy?type=git&repository=professeur-xd/HAIKO-MDX&ports=3000">
+  <a href="https://app.koyeb.com/services/deploy?type=git&repository=professeur-xd/FELICIAN &ports=3000">
     <img src="https://img.shields.io/badge/Deploy-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white" />
   </a>
 </p>
 
 ---
 
- ### DOWNLOAD FILE HAIKO-MDX-v1
+ ### DOWNLOAD FILE FELICIAN
 
 <p align="center">
   <a href="https://github.com/PROFESSEURMDX/HAIKO-MDX-V1/archive/refs/heads/main.zip">
