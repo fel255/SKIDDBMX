@@ -1,6 +1,6 @@
-name: HAIKO-MDX 
+name: SKIDDYBMX
 services:
-  - name: HAIKO-MDX 
+  - name: SKIDDYBMX 
     type: web
     ports:
       - 5000
