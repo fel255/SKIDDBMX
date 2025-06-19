@@ -1,16 +1,16 @@
 {
-  "name": "HAIKO-MDX",
+  "name": "SKIDDYBMX",
   "version": "10.8.1",
-  "description": "MYSTIC HAIKO",
+  "description": "MYSTIC BMX",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name  PROFESSEUR-XD",
-    "stop": "pm2 stop  HAIKO-MDX",
-    "restart": "pm2 restart  HAIKO-MDX"
+    "stop": "pm2 stop  SKIDDYBMX",
+    "restart": "pm2 restart  SKIDDYBMX"
   },
-  "keywords": ["MYSTIC-HAIKO", "whatsapp-bot", "whatsapp md bot"],
-  "author": " MYSTIC HAIKO",
+  "keywords": ["FELICIAN", "whatsapp-bot", "whatsapp md bot"],
+  "author": " MYSTIC SKIDDYBMX",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
