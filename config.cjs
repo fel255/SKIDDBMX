@@ -23,7 +23,7 @@ const config = {
   NOT_ALLOW: process.env.NOT_ALLOW !== undefined ? process.env.NOT_ALLOW === 'true' : true,
   MODE: process.env.MODE || "public",
   BOT_NAME: process.env.BOT_NAME || "SKIDDYBMX",
-  MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/wio44d.jpg",
+  MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/jywdqk.jpg",
   DESCRIPTION: process.env.DESCRIPTION || "WELCOME TO SKIDDYBMX",
   OWNER_NAME: process.env.OWNER_NAME || "SKIDDYBMX",
   OWNER_NUMBER: process.env.OWNER_NUMBER || "255741927849",
