@@ -1,7 +1,7 @@
 {
-  "name": "SKIDDYBMX",
-  "description": "🚀 SKIDDYBMX WhatsApp MultiDevice Bot – BY SKIDDYBMX 💡✨",
-  "logo": "https://files.catbox.moe/jywdqk.jpg",
+  "name": "SKIDDBMX",
+  "description": "🚀 SKIDDY BMX WhatsApp MultiDevice Bot – BY SKIDDYBMX 💡✨",
+  "logo": "https://files.catbox.moe/pcb7ya.jpg,
   "keywords": ["SKIDDYBMX", "whatsapp-bot", "whatsapp-md-bot"],
   "repository": "https://github.com/fel255/SKIDDBMX",
   "stack": "container",
@@ -20,12 +20,12 @@
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
       "required": true,
-      "value": "SKIDDYBMX"
+      "value": "PROFESSEUR HACK"
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
       "required": true,
-      "value": "255741927849"
+      "value": "522219610140"
     },
     "AUTO_READ": {
       "description": "Enable bot to auto-read messages (true/false)",
@@ -97,4 +97,4 @@
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
   ]
-}
+}v
