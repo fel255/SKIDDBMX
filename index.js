@@ -116,23 +116,23 @@ async function start() {
                 if (initialConnection) {
                     console.log(chalk.green("Connected Successfully SKIDDYBMX ♻️"));
                     Matrix.sendMessage(Matrix.user.id, { 
-                        image: { url: "https://files.catbox.moe/rlk9wm.jpg" }, 
+                        image: { url: "https://files.catbox.moe/jywdqk.jpg" }, 
                         caption: `╓─────────────────╖
 │WELCOME TO SKIDDYBMX
 ╙─────────────────╜
 *⚠️ Hello there User! 🤖*
 
 ════════════════════
-♻️ CHANNEL : https://whatsapp.com/channel/0029Vb9qyTY47XeJ7i0wcQ40
+
 
 ═══════════════════
 *🪀 Your Prefix:* = *${prefix}*
 ═══════════════════
 
-💬 REPO : https://github.com/PROFESSEURMDX/HAIKO-MDX-V1 
+💬 REPO : https://github.com/fel255/SKIDDBMX 
 
 ╚══════════════════╝
-       © DEV PROFESSEUR`
+       © DEV FELICIAN`
                     });
                     initialConnection = false;
                 } else {
