@@ -1,8 +1,8 @@
 {
-  "name": "HAIKO-MDX",
+  "name": "SKIDDYBMX",
   "description": "🚀 HAIKO MDX WhatsApp MultiDevice Bot – BY MYSTIC HAIKO 💡✨",
-  "logo": "https://files.catbox.moe/pcb7ya.jpg",
-  "keywords": ["PROFESSEUR HACK", "whatsapp-bot", "whatsapp-md-bot"],
+  "logo": "https://files.catbox.moe/jywdqk.jpg",
+  "keywords": ["SKIDDYBMX", "whatsapp-bot", "whatsapp-md-bot"],
   "repository": "https://github.com/PROFESSEURMDX/HAIKO-MDX-V1",
   "stack": "container",
   "env": { 
@@ -20,12 +20,12 @@
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
       "required": true,
-      "value": "PROFESSEUR HACK"
+      "value": "SKIDDYBMX"
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
       "required": true,
-      "value": "522219610140"
+      "value": "255741927849"
     },
     "AUTO_READ": {
       "description": "Enable bot to auto-read messages (true/false)",
