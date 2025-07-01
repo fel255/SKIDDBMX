@@ -11,7 +11,7 @@ async function helpCommand(sock, chatId, message) {
    YT : ${global.ytch}*
    *👑 ${settings.ownername || 'SKIDDBMX🛩️'}*
    *😏 ${settings.dev ||'FELICIAN'}* 
-   *🗝️ ${settings.prefix||{}*
+   *🗝️ ${settings.prefix||{}
 ╚═══════════════════╝
 
 *Available Commands:*
