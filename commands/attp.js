@@ -44,7 +44,7 @@ async function attpCommand(sock, chatId, message) {
         fs.unlinkSync(stickerPath);
     } catch (error) {
         console.error('Error generating sticker:', error);
-        await sock.sendMessage(chatId, { text: 'Failed to generate the sticker. Please try again later.' });
+        await sock.sendMessage(chatId, { text: 'Failed to generate the sticker.❌ Please try again later.' });
     }
 }
 
