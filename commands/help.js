@@ -188,10 +188,9 @@ Join our channel for updates:`;
                         newsletterJid: '120363419079746471@newsletter',
                         newsletterName: 'SKIDDBMX bY FELICIAN',
                         serverMessageId: -1
-
-                        //Reply to the original message with the bot info
-                         await sock.sendMessage(chatId, { text: botInfo }, { quoted: message });
-
+                    }
+                }
+                    
                         // Send audio from Catbox
         await sock.sendMessage(chatId, { 
             audio: { url: 'https://files.catbox.moe/s7hcy1.m4a' }, 
