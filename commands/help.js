@@ -5,35 +5,39 @@ const path = require('path');
 async function helpCommand(sock, chatId, message) {
     const helpMessage = `
 ╔═══════════════════╗
-   *🤖 ${settings.botName || 'KnightBot-MD'}*  
-   Version: *${settings.version || '2.0.5'}*
-   by ${settings.botOwner || 'Mr Unique Hacker'}
-   YT : ${global.ytch}
+   *🤖 ${settings.botName || 'SKIDDBMX'}*  
+   Version: *${settings.version || '1.0.0'}*
+   by ${settings.botOwner || 'SKIDDBMX👑'}
+   YT : ${global.ytch}*
+   *👑 ${settings.ownername || 'SKIDDBMX🛩️'}*
+   *😏 ${settings.dev ||'FELICIAN'}* 
+   *🗝️ ${settings.prefix||{}
+   *⌨️ ${settings.usertype||{} 
 ╚═══════════════════╝
 
 *Available Commands:*
 
 ╔═══════════════════╗
-🌐 *General Commands*:
-║ ➤ .help or .menu
-║ ➤ .ping
-║ ➤ .alive
-║ ➤ .tts <text>
-║ ➤ .owner
-║ ➤ .joke
-║ ➤ .quote
-║ ➤ .fact
-║ ➤ .weather <city>
-║ ➤ .news
-║ ➤ .attp <text>
-║ ➤ .lyrics <song_title>
-║ ➤ .8ball <question>
-║ ➤ .groupinfo
-║ ➤ .staff or .admins 
-║ ➤ .vv
-║ ➤ .trt <text> <lang>
-║ ➤ .ss <link>
-║ ➤ .jid
+💎 *General Commands*:
+║ 💾 .help or .menu
+║ ⚒️.ping
+║ 🛸.alive
+║ 📝 .tts <text>
+║ 🤴 .owner
+║ 😜 .joke
+║ 🔏 .quote
+║ 🗣️ .fact
+║ ⚙️.weather <city>
+║ 🗽.news
+║ 🗿.attp <text>
+║ 🎆.lyrics <song_title>
+║ 🧶.8ball <question>
+║ 💾.groupinfo
+║ 🚨.staff or .admins 
+║ ✉️.vv
+║ 🤔.trt <text> <lang>
+║ 🔗.ss <link>
+║ ✌️.jid
 ╚═══════════════════╝ 
 
 ╔═══════════════════╗
@@ -137,23 +141,23 @@ async function helpCommand(sock, chatId, message) {
 ╚═══════════════════╝
 
 ╔═══════════════════╗
-📥 *Downloader*:
-║ ➤ .play <song_name>
-║ ➤ .song <song_name>
-║ ➤ .instagram <link>
-║ ➤ .facebook <link>
-║ ➤ .tiktok <link>
-║ ➤ .video <song name>
-║ ➤ .ytmp4 <Link>
+|*Downloader*:
+║ 🎵 .play <song_name>
+║ 🎶 .song <song_name>
+║ 🔗.instagram <link>
+║ 😏.facebook <link>
+║ 🔗 .tiktok <link>
+║ 📷.video <song name>
+║ 🔗.ytmp4 <Link>
 ╚═══════════════════╝
 
 ╔═══════════════════╗
-💻 *Github Commands:*
-║ ➤ .git
-║ ➤ .github
-║ ➤ .sc
-║ ➤ .script
-║ ➤ .repo
+|*Github Commands:*
+║ ✉️ .git
+║ 💾.github
+║ 💫 .sc
+║ ➤💨.script
+║ 🌟.repo
 ╚═══════════════════╝
 
 Join our channel for updates:`;
@@ -171,8 +175,8 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD',
+                        newsletterJid: '+120363419079746471@newsletter',
+                        newsletterName: 'SKIDDBMX',
                         serverMessageId: -1
                     }
                 }
