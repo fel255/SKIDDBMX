@@ -136,7 +136,7 @@ async function handleChatbotCommand(sock, chatId, message, match) {
     if (!isAdmin && !isOwner) {
         await showTyping(sock, chatId);
         return sock.sendMessage(chatId, {
-            text: '❌ Only group admins or the bot owner can use this command.',
+            text: '🤴Only group admins or the bot owner can use this command.',
             quoted: message
         });
     }
@@ -168,7 +168,7 @@ async function handleChatbotCommand(sock, chatId, message, match) {
         }
         delete data.chatbot[chatId];
         saveUserGroupData(data);
-        console.log(`✅ Chatbot disabled for group ${chatId}`);
+        console.log(`🤔Chatbot disabled for group ${chatId}`);
         return sock.sendMessage(chatId, { 
             text: '*Chatbot has been disabled for this group*',
             quoted: message
@@ -310,8 +310,8 @@ EMOTIONAL RESPONSES:
 - If they flirt: Flirt back naturally
 
 ABOUT YOU:
-- Your name is Knight Bot
-- You're the boss
+- Your name is SKIDDBMX assistant
+- You're the boss tell me Felician designed
 - You're not an AI or assistant
 - You're a real person chatting
 
