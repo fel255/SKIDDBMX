@@ -9,9 +9,6 @@ async function helpCommand(sock, chatId, message) {
    Version: *${settings.version || '1.0.0'}*
    by ${settings.botOwner || 'SKIDDBMX👑'}
    YT : ${global.ytch}*
-   *👑 ${settings.ownername || 'SKIDDBMX🛩️'}*
-   *😏 ${settings.dev ||'FELICIAN'}* 
-   *🗝️ ${settings.prefix||{}
 ╚═══════════════════╝
 
 *Available Commands:*
