@@ -188,15 +188,6 @@ Join our channel for updates:`;
                         newsletterJid: '120363419079746471@newsletter',
                         newsletterName: 'SKIDDBMX bY FELICIAN',
                         serverMessageId: -1
-                    }
-                }
-                    
-                        // Send audio from Catbox
-        await sock.sendMessage(chatId, { 
-            audio: { url: 'https://files.catbox.moe/s7hcy1.m4a' }, 
-            mimetype: 'audio/mp3', 
-            ptt: false
-        }):
                         
                     } 
                 }
