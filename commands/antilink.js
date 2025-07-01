@@ -134,3 +134,5 @@ module.exports = {
     handleAntilinkCommand,
     handleLinkDetection,
 };
+
+{
