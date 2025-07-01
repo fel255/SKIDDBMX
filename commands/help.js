@@ -18,55 +18,55 @@ async function helpCommand(sock, chatId, message) {
 ║ 💾 .help or .menu
 ║ ⚒️.ping
 ║ 🛸.alive
-║ 📝 .tts <text>
+║ 📝 .tts 
 ║ 🤴 .owner
 ║ 😜 .joke
 ║ 🔏 .quote
 ║ 🗣️ .fact
-║ ⚙️.weather <city>
+║ ⚙️.weather 
 ║ 🗽.news
-║ 🗿.attp <text>
-║ 🎆.lyrics <song_title>
-║ 🧶.8ball <question>
+║ 🗿.attp 
+║ 🎆.lyrics 
+║ 🧶.8ball 
 ║ 💾.groupinfo
 ║ 🚨.staff or .admins 
 ║ ✉️.vv
-║ 🤔.trt <text> <lang>
+║ 🤔.trt 
 ║ 🔗.ss <link>
 ║ ✌️.jid
 ╚═══════════════════╝ 
 
 ╔═══════════════════╗
-👮‍♂️ *Admin Commands*:
-║ ➤ .ban @user
-║ ➤ .promote @user
-║ ➤ .demote @user
-║ ➤ .mute <minutes>
-║ ➤ .unmute
-║ ➤ .delete or .del
-║ ➤ .kick @user
-║ ➤ .warnings @user
-║ ➤ .warn @user
-║ ➤ .antilink
-║ ➤ .antibadword
-║ ➤ .clear
-║ ➤ .tag <message>
-║ ➤ .tagall
-║ ➤ .chatbot
-║ ➤ .resetlink
-║ ➤ .welcome <on/off>
-║ ➤ .goodbye <on/off>
+👮‍♂️ *Group Commands*:
+║ 🚫 .ban @user
+║ 🕸️ .promote 
+║ 💾.demote
+║ 😔 .mute 
+║ 😜 .unmute
+║ ❌.delete or .del
+║ 🗿 .kick @user
+║ 🚫 .warnings @user
+║ 🚫 .warn @user
+║ 🔗 .antilink
+║ 🗣️ .antibadword
+║ ❌ .clear
+║ ➤🗽.tag 
+║ 📝 .tagall
+║ 🛸 .chatbot
+║ 🔗 .resetlink
+║ 🗝️ .welcome 
+║ 😂 .goodbye 
 ╚═══════════════════╝
 
 ╔═══════════════════╗
 🔒 *Owner Commands*:
-║ ➤ .mode
-║ ➤ .autostatus
-║ ➤ .clearsession
-║ ➤ .antidelete
-║ ➤ .cleartmp
-║ ➤ .setpp <reply to image>
-║ ➤ .autoreact
+║ 🚨 .mode
+║ 🚨 .autostatus
+║ 🚨 .clearsession
+║ 🚨.antidelete
+║ 🚨 .cleartmp
+║ 🚨   .setpp 
+║ 🚨 .autoreact
 ╚═══════════════════╝
 
 ╔═══════════════════╗
@@ -82,69 +82,69 @@ async function helpCommand(sock, chatId, message) {
 
 ╔═══════════════════╗
 🎮 *Game Commands*:
-║ ➤ .tictactoe @user
-║ ➤ .hangman
-║ ➤ .guess <letter>
-║ ➤ .trivia
-║ ➤ .answer <answer>
-║ ➤ .truth
-║ ➤ .dare
+║ 🤴 .tictactoe
+║ 🛸 .hangman
+🚨😜 .guess 
+║ ⚒️ .trivia
+║ 😂 .answer 
+║ 😔.truth
+║ ❌ .dare
 ╚═══════════════════╝
 
 ╔═══════════════════╗
 🤖 *AI Commands*:
-║ ➤ .gpt <question>
-║ ➤ .gemini <question>
-║ ➤ .imagine <prompt>
-║ ➤ .flux <prompt>
+║ 💾 .gpt 
+║ 🗿 .gemini 
+║ 📝 .imagine 
+║ 💫 .flux
 ╚═══════════════════╝
 
 ╔═══════════════════╗
 🎯 *Fun Commands*:
-║ ➤ .compliment @user
-║ ➤ .insult @user
-║ ➤ .flirt 
-║ ➤ .shayari
-║ ➤ .goodnight
-║ ➤ .roseday
-║ ➤ .character @user
-║ ➤ .wasted @user
-║ ➤ .ship @user
-║ ➤ .simp @user
-║ ➤ .stupid @user [text]
+║ 🤴.compliment @user
+║🗣️.insult @user
+║ 💨 .flirt 
+║ ⚒️.shayari
+║ 🎆 .goodnight
+║ 😔.roseday
+║ 😔.character @user
+║ 🗝️.wasted @user
+║ 🔗.ship @user
+║ 🔏.simp @user
+║ 🗿.stupid @user [text]
 ╚═══════════════════╝
 
 ╔═══════════════════╗
 🔤 *Textmaker*:
-║ ➤ .metallic <text>
-║ ➤ .ice <text>
-║ ➤ .snow <text>
-║ ➤ .impressive <text>
-║ ➤ .matrix <text>
-║ ➤ .light <text>
-║ ➤ .neon <text>
-║ ➤ .devil <text>
-║ ➤ .purple <text>
-║ ➤ .thunder <text>
-║ ➤ .leaves <text>
-║ ➤ .1917 <text>
-║ ➤ .arena <text>
-║ ➤ .hacker <text>
-║ ➤ .sand <text>
-║ ➤ .blackpink <text>
-║ ➤ .glitch <text>
-║ ➤ .fire <text>
+║ 🛸 .metallic
+║ ⚒️.ice 
+║ ⚙️.snow 
+║ 🗣️.impressive 
+║ ⌨️ .matrix
+║ 💨.light 
+║⌨️ .neon 
+║ 💸.devil 
+║ 🧶 .purple 
+║ 💨 .thunder 
+║ 🎆.leaves 
+║ 💫.1917 
+║ 🗿 .arena 
+║ ⌨️ .hacker 
+║🔏 .sand 
+║ 🗽 .blackpink 
+║ ✉️.glitch 
+║ 🧶 .fire 
 ╚═══════════════════╝
 
 ╔═══════════════════╗
 |*Downloader*:
-║ 🎵 .play <song_name>
-║ 🎶 .song <song_name>
-║ 🔗.instagram <link>
-║ 😏.facebook <link>
-║ 🔗 .tiktok <link>
-║ 📷.video <song name>
-║ 🔗.ytmp4 <Link>
+║ 🎵 .play
+║ 🎶 .song 
+║ 🔗.instagram 
+║ 😏.facebook 
+║ 🔗 .tiktok 
+║ 📷.video 
+║ 🔗.ytmp4 
 ╚═══════════════════╝
 
 ╔═══════════════════╗
@@ -171,7 +171,7 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '+120363419079746471@newsletter',
+                        newsletterJid: '120363419079746471@newsletter',
                         newsletterName: 'SKIDDBMX',
                         serverMessageId: -1
                     }
@@ -185,9 +185,20 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '+120363419079746471@newsletter',
+                        newsletterJid: '120363419079746471@newsletter',
                         newsletterName: 'SKIDDBMX bY FELICIAN',
                         serverMessageId: -1
+
+                        //Reply to the original message with the bot info
+                         await sock.sendMessage(chatId, { text: botInfo }, { quoted: message });
+
+                        // Send audio from Catbox
+        await sock.sendMessage(chatId, { 
+            audio: { url: 'https://files.catbox.moe/s7hcy1.m4a' }, 
+            mimetype: 'audio/mp3', 
+            ptt: false
+        }):
+                        
                     } 
                 }
             });
