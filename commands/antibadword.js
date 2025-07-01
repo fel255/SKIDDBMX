@@ -21,3 +21,5 @@ async function antibadwordCommand(sock, chatId, message, senderId, isSenderAdmin
 }
 
 module.exports = antibadwordCommand; 
+
+}
