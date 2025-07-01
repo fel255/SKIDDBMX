@@ -53,9 +53,7 @@ DEPLOY SIMPLY FELICIAN BOT
   <tr>
     <td align="center" style="border:none">
       <a href="https://felicinaha.vercel.app/">
-        <img src="https://img.shields.io/badge/Contact_Us-0088cc?style=for-the-badge&logo=telegram&logoColor=white" width="200">
-      </a>
-    </td>
+        <img src="https://img.shields.io/badge/Contact_Us-00
     <td align="center" style="border:none">
       <a href="https://skiddyprojects.vercel.app//">
         <img src="https://img.shields.io/badge/SKIDDBMX_APIs-000000?style=for-the-badge&logo=vercel&logoColor=white" width="200">
@@ -66,7 +64,6 @@ DEPLOY SIMPLY FELICIAN BOT
 
 ## Deployment 
 
-align="center" style="border:none">
       <a href="https://railway.app/new">
         <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" width="180">
       </a>
