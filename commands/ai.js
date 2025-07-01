@@ -25,7 +25,7 @@ async function aiCommand(sock, chatId, message) {
         try {
             // Show processing message
             await sock.sendMessage(chatId, {
-                react: { text: '🤖', key: message.key }
+                react: { text: '💾', key: message.key }
             });
 
             if (command === '.gpt') {
