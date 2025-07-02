@@ -19,14 +19,14 @@ async function aliveCommand(sock, chatId, message) {
         await sock.sendMessage(chatId, { 
             image: { url: 'https://files.catbox.moe/yhy4en.jpg' }, 
             caption: '> 😓 sometimes,when one person is missing,the whole world seems empty💔
-        }):
+        });
 
         // Send audio from Catbox
         await sock.sendMessage(chatId, { 
             audio: { url: 'https://files.catbox.moe/y3x56b.mp3' }, 
             mimetype: 'audio/mp3', 
             ptt: false
-        }):  
+        });  
         
         await sock.sendMessage(chatId, {
             text: message1,
