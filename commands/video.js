@@ -98,7 +98,7 @@ async function videoCommand(sock, chatId, message) {
                 video: { url: convertedFile },
                 mimetype: 'video/mp4',
                 fileName: filename,
-                caption: `*${title}*\n\n> *_Downloaded by Knight Bot MD_*`
+                caption: `*${title}*\n\n> *_Downloaded by 𝐅𝐄𝐋𝐈𝐂𝐈𝐀𝐍 | 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑_*`
             }, { quoted: message });
             
         } catch (conversionError) {
