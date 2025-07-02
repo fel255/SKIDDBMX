@@ -14,13 +14,7 @@ async function aliveCommand(sock, chatId, message) {
 
         //Reply to the original message with the bot info
         await sock.sendMessage(chatId, { text: botInfo }, { quoted: message });
-
-        // Send image from Catbox
-        await sock.sendMessage(chatId, { 
-            image: { url: 'https://files.catbox.moe/yhy4en.jpg' }, 
-            caption: '> 😓 sometimes,when one person is missing,the whole world seems empty💔
-        });
-
+             
         // Send audio from Catbox
         await sock.sendMessage(chatId, { 
             audio: { url: 'https://files.catbox.moe/y3x56b.mp3' }, 
