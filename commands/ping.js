@@ -44,7 +44,7 @@ async function pingCommand(sock, chatId, message) {
             mimetype: 'audio/mp3', 
             ptt:false
 
-        }):
+        });
         
     } catch (error) {
         console.error('Error in ping command:', error);
