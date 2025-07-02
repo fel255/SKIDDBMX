@@ -60,4 +60,4 @@ async function playCommand(sock, chatId, message) {
 module.exports = playCommand; 
 
 /*Powered by 𝐅𝐄𝐋𝐈𝐂𝐈𝐀𝐍 | 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑 ⚙️*
-*Credits to Keith-md*`*/
+*Credits to Keith MD*`*/
